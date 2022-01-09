@@ -1,0 +1,17 @@
+.card-input {
+  display: flex;
+  position: relative;
+  align-items: center;
+  background: #393b3f;
+  color: #999ca0;
+  border-bottom: none;
+  border-radius: 3px;
+  padding-left: 16px;
+  margin-bottom: 0px;
+  font-size: 16px;
+}
+
+.card-input input {
+  margin-bottom: 0px !important;
+  border-bottom: none !important;
+}

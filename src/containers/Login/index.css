@@ -61,7 +61,7 @@
   margin-bottom: 20px;
 }
 
-.login .body input[type="text"] {
+.login .body .input-field input[type="text"] {
   background: #393b3f;
   color: #999ca0;
   border-bottom: none;

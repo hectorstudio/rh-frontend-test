@@ -1,5 +1,6 @@
 import React from "react";
 import { Row, Col, Button } from "react-materialize";
+import CardInput from "../../components/CardInput";
 import "./index.css";
 
 const Login = () => {
@@ -67,12 +68,7 @@ const Login = () => {
           >
             <input name="card" type="radio" />
             <span></span>
-            <input
-              type="text"
-              id="input_card"
-              placeholder="Card Number"
-              style={{ width: "80%" }}
-            />
+            <CardInput />
           </Row>
           <Row
             style={{
