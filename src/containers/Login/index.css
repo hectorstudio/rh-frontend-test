@@ -1,0 +1,111 @@
+.login .header {
+  height: 18%;
+  background-color: rgb(16, 16, 17);
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+}
+
+.login .header .avatar {
+  margin-top: 50px;
+  border-radius: 24px;
+  background: linear-gradient(180deg, #191919 0%, #101011 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70px;
+  height: 70px;
+}
+
+.login .header img {
+  border-radius: 24px;
+  width: 63px;
+}
+
+.login .header .title {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.login .header .sub-title {
+  font-size: 14px;
+  color: #393b3f;
+}
+
+.sub-title .material-icons {
+  font-size: 10px;
+}
+
+.login .body {
+  width: 70%;
+  text-align: left;
+}
+
+.login .body label {
+  font-size: 14px;
+}
+
+.login .body h6 {
+  text-align: left;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.login .body a {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.login .body .input-field {
+  margin-bottom: 20px;
+}
+
+.login .body input[type="text"] {
+  background: #393b3f;
+  color: #999ca0;
+  border-bottom: none;
+  height: 51px;
+  border-radius: 3px;
+  padding-left: 16px;
+  margin-bottom: 0px;
+  font-size: 16px;
+}
+
+.login .body img {
+  width: 63px;
+}
+
+.login .body .description {
+  font-size: 12px;
+  color: #999CA0;
+  margin: 8px 0;
+}
+
+.mb-0 {
+  margin-bottom: 0px;
+}
+
+.footer {
+  background-color: rgb(16, 16, 17);
+  height: 105px;
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
+  margin-bottom: 0;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.footer button {
+  background-color: #4cc9f0;
+  color: #1a1b1c;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.input-field {
+  margin: 0;
+}
