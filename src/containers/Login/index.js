@@ -94,8 +94,8 @@ const Login = () => {
             }}
           >
             <span className="description">
-              By pledging, you agree with Lynq <a href="#">Terms of Use</a>,
-              <a href="#"> Privacy Policy</a> and <a href="#">Cookie Policy</a>
+              By pledging, you agree with Lynq <b>Terms of Use</b>,
+              <b> Privacy Policy</b> and <b>Cookie Policy</b>
             </span>
           </Row>
         </Col>

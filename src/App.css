@@ -35,10 +35,11 @@
   color: #61dafb;
 }
 
-a {
+b {
   font-size: 12px;
   line-height: 20px;
   color: #d8dbde;
+  font-weight: 600;
 }
 @keyframes App-logo-spin {
   from {
